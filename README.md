@@ -1,5 +1,7 @@
 # Dam-break modelling with shallow-water hydrodynamics, SPH and ML surrogates — Tehri Dam
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151249.svg)](https://doi.org/10.5281/zenodo.23151249)
+
 Code, knowledge graph and simulation data for the paper
 
 > G. S. Navale, A. Shirode, S. Deshmukh, A. Dewangan and P. Agrawal, *Coupling Shallow-Water Hydrodynamics, Smoothed Particle Hydrodynamics and Machine-Learning Surrogates for Rapid Dam-Break Inundation Modelling: Application to Tehri Dam, India.*
@@ -70,6 +72,10 @@ Steps 0 and 3–4 and the figure script need the DEM. Steps 1, 5 and the sensiti
 ## Limitations
 
 There is no observed Tehri breach, so surrogate accuracy is measured against the physics solver, not against reality. Both breach regressions are applied outside their calibration ranges (dams 3–93 m high). See the paper's limitations section for the full list.
+
+## How to cite
+
+Navale, G. S., Shirode, A., Deshmukh, S., Dewangan, A. and Agrawal, P. (2026). *Dam-break inundation modelling with shallow-water hydrodynamics, SPH and machine-learning surrogates: code, knowledge graph and simulation data (Tehri Dam case study)*, version v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23151249
 
 ## Licence
 
