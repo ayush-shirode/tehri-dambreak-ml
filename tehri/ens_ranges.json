@@ -1,0 +1,101 @@
+{
+ "ranges_from_kg": {
+  "crestElevation": {
+   "value": 839.5,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "crestLength": {
+   "value": 575.0,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "height": {
+   "value": 260.5,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "spillwayCapacity": {
+   "value": 13043.0,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "type": {
+   "value": null,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "breachTimeRange": {
+   "value": null,
+   "min": null,
+   "max": null,
+   "status": "derived"
+  },
+  "breachWidthFactor": {
+   "value": null,
+   "min": 0.7,
+   "max": 1.3,
+   "status": "assumption"
+  },
+  "failureMode": {
+   "value": null,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "manningN": {
+   "value": null,
+   "min": 0.04,
+   "max": 0.07,
+   "status": "sourced"
+  },
+  "reservoirLevel": {
+   "value": null,
+   "min": 740.0,
+   "max": 835.0,
+   "status": "sourced"
+  },
+  "K0_overtopping": {
+   "value": 1.3,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "K0_piping": {
+   "value": 1.0,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "databaseDamHeight": {
+   "value": null,
+   "min": 3.05,
+   "max": 92.96,
+   "status": "sourced"
+  },
+  "databaseVolume": {
+   "value": null,
+   "min": 13900.0,
+   "max": 660000000.0,
+   "status": "sourced"
+  },
+  "sideSlope_overtopping": {
+   "value": 1.0,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  },
+  "sideSlope_piping": {
+   "value": 0.7,
+   "min": null,
+   "max": null,
+   "status": "sourced"
+  }
+ },
+ "P_overtop": 0.25
+}

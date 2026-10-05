@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Dam-break inundation modelling with shallow-water hydrodynamics, SPH and machine-learning surrogates: code, knowledge graph and simulation data (Tehri Dam case study)"
+type: software
+authors:
+  - family-names: Navale
+    given-names: Geeta S.
+    affiliation: "Department of Computer Engineering, Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Shirode
+    given-names: Ayush
+    email: ayush.shirode242@vit.edu
+    affiliation: "Department of Computer Engineering, Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Deshmukh
+    given-names: Swaroop
+    affiliation: "Department of Computer Engineering, Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Dewangan
+    given-names: Ayush
+    affiliation: "Department of Computer Engineering, Vishwakarma Institute of Technology, Pune, India"
+  - family-names: Agrawal
+    given-names: Purvika
+    affiliation: "Department of Computer Engineering, Vishwakarma Institute of Technology, Pune, India"
+license: MIT
+version: "1.0.0"
+keywords:
+  - dam break
+  - shallow-water equations
+  - smoothed particle hydrodynamics
+  - reduced-order modelling
+  - Gaussian process regression
+  - knowledge graph
+  - Tehri Dam

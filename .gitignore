@@ -1,0 +1,5 @@
+# Copernicus DEM is not redistributed here; download it (see README)
+*.tif
+grid_60m_transform.txt
+__pycache__/
+*.pyc
